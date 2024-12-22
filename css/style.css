@@ -1,0 +1,45 @@
+.shipping-group {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.shipping-group h3 {
+    margin-top: 0;
+}
+
+.shipping-group .form-group {
+    margin-bottom: 10px;
+}
+
+.shipping-group .remove-group {
+    margin-top: 10px;
+}
+
+#shipping-groups-container {
+    margin-bottom: 20px;
+}
+
+.category-shipping-group {
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.category-shipping-group h3 {
+    margin-top: 0;
+}
+
+.category-shipping-group .form-group {
+    margin-bottom: 10px;
+}
+
+.category-shipping-group .remove-category-group {
+    margin-top: 10px;
+}
+
+#category-shipping-groups-container {
+    margin-bottom: 20px;
+}
